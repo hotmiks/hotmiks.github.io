@@ -26,10 +26,11 @@
     font-size: 18px;
     border: 1px solid #dee7ec;
   }
-  .slide-slider {
+ .slide-slider {
     margin: auto 0px auto;
-    height: 450px;
-   }
+    height: 500px;
+    width: 100%;
+  }
 
   .header-right {
     display: none;
