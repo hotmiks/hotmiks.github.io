@@ -27,9 +27,12 @@
     border: 1px solid #dee7ec;
   }
  .slide-slider {
+     
     margin: auto 0px auto;
-    height: 500px;
+    /* height: 500px; */
     width: 100%;
+    margin-top: 0px;
+    top: -120px;
   }
 
   .header-right {
