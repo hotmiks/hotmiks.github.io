@@ -473,7 +473,7 @@ input, textarea {
 /* kode buat slide   */
 .slide-slider { 
 
-	position: relative; 
+	/* position: relative; */
 	overflow: hidden; 
 
 }
